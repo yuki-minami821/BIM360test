@@ -1,5 +1,1 @@
-npm install
-set FORGE_CLIENT_ID=<<YOUR CLIENT ID FROM FORGE DEVELOPER PORTAL>>
-set FORGE_CLIENT_SECRET=<<YOUR FORGE CLIENT SECRET>>
-set FORGE_CALLBACK_URL=<<YOUR CALLBACK URL FROM FORGE DEVELOPER PORTAL>>
-npm run dev
+git clone https://github.com/autodesk-forge/forge-bim360reports
